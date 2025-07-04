@@ -15,6 +15,9 @@
 * **1- Least Confident Sampling** 
 * **2- Entropy-Based Sampling** 
 
+![Accuracy Comparison Graph](results/active_learning_comparison.png)
+
+
 ## Resources:
 
 * **[Active Learning by Burr Settles](http://burrsettles.com/pub/settles.activelearning.pdf)**: a very old survey 
